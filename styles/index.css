@@ -9,9 +9,12 @@
     --cursorSize: 10px;
 }
 
+body{
+    text-align: center;
+}
 .text {
-    margin-top: 35vh;
-    margin-left: 10vw;
+    margin: 0 auto;
+    margin-top: 10px;
     color: #333;;
     position: relative;
     display: inline-block;
